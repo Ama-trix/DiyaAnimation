@@ -1,4 +1,3 @@
 # DiyaAnimation
 
-Feel free to use the source code 
-May suggest any changes
+Feel free to use the source code and Suggest Changes
